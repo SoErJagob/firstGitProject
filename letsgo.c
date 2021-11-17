@@ -1,6 +1,8 @@
 
-bella  vecio macchina 2
+//bella  vecio macchina 2
 
+
+//bella fra altro commento macchina 1
 modifica 3
 #include<stdio.h>
 
@@ -14,3 +16,4 @@ int main()
 
 prova
 
+//bella vecio macchina 1
